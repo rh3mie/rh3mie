@@ -1,4 +1,8 @@
-## 👋 Hi there
+## 👋 Introducing Myself
+![rheymar devera](https://github.com/user-attachments/assets/ba96e842-0a26-498a-a8c4-60ed4e668d73)
+
+
+<!--Hi! My name is Rheymar Devera, and I'm a rising senior at the University of Maryland pursuing a Bachelor's degree in Information Science. I'm passionate about working with data and how we can shape and analyze it to create insights that solve real-world problems. At UMD, I have developed expertise in coding languages (Python, SQL, and R) to clean large datasets, create insightful visuals, and develop machine learning models to make impactful predictions, and I hope to use these skills to drive data-informed decisions that create meaningful change. I'm always looking for opportunities to grow, collaborate, and apply data to make a measurable impact.-->
 
 <!--
 **rh3mie/rh3mie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
