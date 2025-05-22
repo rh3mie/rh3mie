@@ -1,7 +1,25 @@
 ## 👋 Introducing Myself
-![githubbanner](https://github.com/user-attachments/assets/067a9d94-310f-47bc-9999-17e24161da38)
+![banner2](https://github.com/user-attachments/assets/607a8ba4-c1c1-4808-b7fa-f81b4e2ace11)
+
+Hi! I'm Rheymar Devera, and I'm a rising senior at the University of Maryland pursuing a Bachelor's degree in Information Science. I've developed expertise in data analysis, and I have a passion for using data to find insights and solve real-world problems. I want to use my skills to drive data-informed decisions that create meaningful change, leaving my mark with measurable impacts.
 
 
+## 🦾 Skills
+- Experienced in using Python, SQL, and R to clean and explore data
+- Creating insightful visuals for trend and relationship analysis
+- Cleaning and preprocessing large datasets to ensure data accuracy and integrity
+- Developing machine learning models using regression models to make predictions
+
+## 🛠️ Tools
+- Tools/Platforms: Tableau, Jupyter Notebook, RStudio, Microsoft Excel, Google Sheets
+- Languages: Python, SQL, R, HTML/CSS, JavaScript
+- Libraries and Frameworks: Cartopy, Matplotlib, Pandas, Scikit-Learn, Seaborn, Tidyverse
+
+## 📚 Projects
+My portfolio can be seen below, where each repository showcases a different project. (WIP)
+
+## 🤝 Connect with Me
+- [LinkedIn](www.linkedin.com/in/rheymardevera7)
 
 <!--Hi! My name is Rheymar Devera, and I'm a rising senior at the University of Maryland pursuing a Bachelor's degree in Information Science. I'm passionate about working with data and how we can shape and analyze it to create insights that solve real-world problems. At UMD, I have developed expertise in coding languages (Python, SQL, and R) to clean large datasets, create insightful visuals, and develop machine learning models to make impactful predictions, and I hope to use these skills to drive data-informed decisions that create meaningful change. I'm always looking for opportunities to grow, collaborate, and apply data to make a measurable impact.-->
 
