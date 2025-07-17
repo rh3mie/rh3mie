@@ -1,6 +1,4 @@
 ## 👋 Introducing Myself
-![banner3](https://github.com/user-attachments/assets/0ed47713-025a-48ca-aa63-017c20bc44bf)
-
 
 Hi! I'm Rheymar Devera, and I'm a rising senior at the University of Maryland pursuing a Bachelor's degree in Information Science. I've developed expertise in data analysis, and I have a passion for using data to find insights and solve real-world problems. 
 
